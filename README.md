@@ -2,6 +2,8 @@
 **Basic Swerve Code for a Swerve Module using Falcon Motors, a CTRE CANCoder, and a CTRE Pigeon Gyro** </br>
 This code was designed with SDS MK3 style modules in mind, but should be easily adaptable to other styles of modules.</br>
 
+The Path Generating code can be found here https://github.com/frc4206/MapGenerator
+
 **Setting Constants**
 ----
 The following things must be adjusted to your robot and module's specific constants in the Constants.java file (all distance units must be in meters, and rotation units in radians):</br>
